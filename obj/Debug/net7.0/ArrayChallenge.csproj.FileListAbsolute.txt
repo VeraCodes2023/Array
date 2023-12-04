@@ -1,0 +1,15 @@
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_2-array-challenge/bin/Debug/net7.0/ArrayChallenge
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_2-array-challenge/bin/Debug/net7.0/ArrayChallenge.deps.json
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_2-array-challenge/bin/Debug/net7.0/ArrayChallenge.runtimeconfig.json
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_2-array-challenge/bin/Debug/net7.0/ArrayChallenge.dll
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_2-array-challenge/bin/Debug/net7.0/ArrayChallenge.pdb
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_2-array-challenge/obj/Debug/net7.0/ArrayChallenge.csproj.AssemblyReference.cache
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_2-array-challenge/obj/Debug/net7.0/ArrayChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_2-array-challenge/obj/Debug/net7.0/ArrayChallenge.AssemblyInfoInputs.cache
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_2-array-challenge/obj/Debug/net7.0/ArrayChallenge.AssemblyInfo.cs
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_2-array-challenge/obj/Debug/net7.0/ArrayChallenge.csproj.CoreCompileInputs.cache
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_2-array-challenge/obj/Debug/net7.0/ArrayChallenge.dll
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_2-array-challenge/obj/Debug/net7.0/refint/ArrayChallenge.dll
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_2-array-challenge/obj/Debug/net7.0/ArrayChallenge.pdb
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_2-array-challenge/obj/Debug/net7.0/ArrayChallenge.genruntimeconfig.cache
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_2-array-challenge/obj/Debug/net7.0/ref/ArrayChallenge.dll
